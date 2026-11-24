@@ -14,9 +14,9 @@
 
 *I teach machines to find patterns. Then I ask the awkward question: “Does this actually help anyone?”*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-181818?style=for-the-badge)](https://example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/YOUR_HANDLE/)
-[![D30 Photography](https://img.shields.io/badge/D30_Photography-B91C1C?style=for-the-badge)](https://www.facebook.com/YOUR_PAGE/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181818?style=for-the-badge)](https://portfolio-julana.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](linkedin.com/in/julana-premasekara)
+[![D30 Photography](https://img.shields.io/badge/D30_Photography-B91C1C?style=for-the-badge)](https://www.facebook.com/share/1E5ufQPggU/)
 
 </div>
 
@@ -47,8 +47,8 @@ Away from the keyboard, I run **D30 Photography**. Photography and data science 
 ## My contributions, one commit at a time 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-  <img width="100%" alt="An animated snake moves across my GitHub contribution calendar" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulanaPremasekara/JulanaPremasekara/output/github-snake-dark.svg" />
+  <img width="100%" alt="An animated snake moves across my GitHub contribution calendar" src="https://raw.githubusercontent.com/JulanaPremasekara/JulanaPremasekara/output/github-snake.svg" />
 </picture>
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:B91C1C,100:171717&amp;height=85&amp;section=footer&amp;animation=twinkling" />
