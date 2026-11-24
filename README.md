@@ -35,14 +35,6 @@ I build tools for the moment someone has to make a decision. How much stock shou
 | **Demand Forecasting** | Combine demand forecasts with vendor scores to support purchasing decisions. | Python, TensorFlow/Keras, Pandas, multivariate LSTM |
 | **UniSphere** | Find student housing, join study groups, discover events, and reunite lost items with their owners. | React Native, Node.js, Express, MongoDB |
 
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=2200&amp;pause=1000&amp;color=FF5252&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=80&amp;repeat=true&amp;lines=while+%28bug%29+%7B+askAI%28%29%3B+panic%28%29%3B+debug%28%29%3B+deploy%28%29%3B+%7D;My+debugging+process+has+excellent+plot+twists."
-  alt="Animated coding joke"
-/>
-
-</div>
 
 ## Inside my toolbox
 
