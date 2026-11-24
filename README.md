@@ -7,7 +7,7 @@
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2600&amp;pause=1100&amp;color=DC4545&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=70&amp;separator=%7C&amp;lines=print%28%22Hello%2C+world%21%22%29++%23+Python%7Cconsole.log%28%22Hello%2C+world%21%22%29%3B++%2F%2F+JavaScript%7CSystem.out.println%28%22Hello%2C+world%21%22%29%3B++%2F%2F+Java%7Cprintf%28%22Hello%2C+world%21%5Cn%22%29%3B++%2F%2F+C"
-  alt="Code typing Hello, world! in Python, JavaScript, Java, and C"
+  alt="Hello, world! typed in Python, JavaScript, Java, and C"
 />
 
 **Data Science undergraduate in Sri Lanka · I use AI to solve problems, then create three new ones while debugging**
@@ -30,11 +30,19 @@ I build tools for the moment someone has to make a decision. How much stock shou
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| **ExecBrief AI** | Ask questions about business data, explore charts, and check the sources behind an answer. | Python, FastAPI, React, LangChain, pgvector |
-| **Shen** | Find evidence across text, tables, and images, with answers linked back to their sources. | FastAPI, PostgreSQL, pgvector, Next.js, Docker |
-| **Demand Forecasting** | Combine demand forecasts with vendor scores to support purchasing decisions. | Python, TensorFlow/Keras, Pandas, multivariate LSTM |
-| **UniSphere** | Find student housing, join study groups, discover events, and reunite lost items with their owners. | React Native, Node.js, Express, MongoDB |
+| **ExecBrief AI** | Lets people ask questions about business data, explore the numbers in charts, and check the sources behind an answer. | Python, FastAPI, React, LangChain, pgvector |
+| **Shen** | Finds evidence across text, tables, and images so readers can trace an answer back to its source. | FastAPI, PostgreSQL, pgvector, Next.js, Docker |
+| **Demand Forecasting** | Combines demand forecasts with vendor scores to support decisions about how much to order and whom to order from. | Python, TensorFlow/Keras, Pandas, multivariate LSTM |
+| **UniSphere** | Helps students find housing, join study groups, discover events, and reunite lost items with their owners. | React Native, Node.js, Express, MongoDB |
 
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=1800&amp;pause=900&amp;color=FF5252&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=100&amp;repeat=true&amp;lines=while+%28bug%29+%7B+askAI%28%29%3B+panic%28%29%3B+debug%28%29%3B+deploy%28%29%3B+%7D;My+debugging+process+has+excellent+plot+twists."
+  alt="Animated coding joke: ask AI, panic, debug, deploy, repeat"
+/>
+
+</div>
 
 ## Inside my toolbox
 
@@ -46,6 +54,13 @@ I build tools for the moment someone has to make a decision. How much stock shou
 ## Behind the lens 📸
 
 Away from the keyboard, I run **D30 Photography**. Photography and data science keep teaching me the same lesson: what you leave outside the frame can change the whole story.
+
+## My contributions, one commit at a time 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulanaPremasekara/JulanaPremasekara/output/github-snake-dark.svg" />
+  <img width="100%" alt="Animated snake moving across my GitHub contribution calendar" src="https://raw.githubusercontent.com/JulanaPremasekara/JulanaPremasekara/output/github-snake.svg" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:B91C1C,100:171717&amp;height=85&amp;section=footer&amp;animation=twinkling" />
