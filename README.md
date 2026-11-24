@@ -37,25 +37,10 @@ I build tools for the moment someone has to make a decision. How much stock shou
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <pre>
-<span style="color:#ff5252">while (bug) {</span>
-  askAI();
-  panic();
-  debug();
-  deploy();
-<span style="color:#ff5252">}</span>
-
-confidence: 100%
-understanding: loading...
-      </pre>
-    </td>
-  </tr>
-</table>
-
-<i>My debugging process has excellent plot twists.</i>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=2200&amp;pause=1000&amp;color=FF5252&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=80&amp;repeat=true&amp;lines=while+%28bug%29+%7B+askAI%28%29%3B+panic%28%29%3B+debug%28%29%3B+deploy%28%29%3B+%7D;My+debugging+process+has+excellent+plot+twists."
+  alt="Animated coding joke"
+/>
 
 </div>
 
