@@ -34,38 +34,22 @@ I build tools for the moment someone has to make a decision. How much stock shou
 | **UniSphere** | Gives students one place to find housing, join study groups, discover events, and reunite lost items with their owners. | React Native, Node.js, Express, MongoDB |
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:171717,100:B91C1C&amp;height=105&amp;section=header&amp;animation=twinkling" />
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FECACA,100:B91C1C&amp;height=105&amp;section=header&amp;animation=twinkling" />
-</picture>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2600&amp;pause=1100&amp;color=DC4545&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=60&amp;separator=%7C&amp;lines=print%28%22Hello%2C+world%21%22%29++%23+Python%7Cconsole.log%28%22Hello%2C+world%21%22%29%3B++%2F%2F+JavaScript%7CSystem.out.println%28%22Hello%2C+world%21%22%29%3B++%2F%2F+Java%7Cprintf%28%22Hello%2C+world%21%5Cn%22%29%3B++%2F%2F+C"
-  alt="Hello, world! typed in Python, JavaScript, Java, and C"
-/>
-
-**Data Science undergraduate in Sri Lanka · I use AI to solve problems, then create three new ones while debugging**
-
-*I teach machines to find patterns. Then I ask the awkward question: “Does this actually help anyone?”*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-181818?style=for-the-badge)](https://portfolio-julana.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](linkedin.com/in/julana-premasekara)
-[![D30 Photography](https://img.shields.io/badge/D30_Photography-B91C1C?style=for-the-badge)](https://www.facebook.com/share/1E5ufQPggU/)
-
+<div align="center">
+  <svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
+    <rect width="700" height="120" rx="18" fill="#111111"/>
+    <text x="28" y="45" fill="#ff5252" font-family="monospace" font-size="18">
+      while (bug) {
+      <animate attributeName="opacity" values="1;0.35;1" dur="1.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="52" y="75" fill="#f5f5f5" font-family="monospace" font-size="16">
+      askAI(); panic(); debug(); deploy();
+      <animate attributeName="x" values="52;58;52" dur="0.8s" repeatCount="indefinite"/>
+    </text>
+    <text x="28" y="101" fill="#ff5252" font-family="monospace" font-size="18">}</text>
+    <text x="430" y="45" fill="#888888" font-family="monospace" font-size="13">confidence: 100%</text>
+    <text x="430" y="68" fill="#888888" font-family="monospace" font-size="13">understanding: loading...</text>
+  </svg>
 </div>
-
-## About me
-
-I build tools for the moment someone has to make a decision. How much stock should we order? Which report backs up that number? At **Travler**, the question is a little more personal: how can AI help someone plan a day out while leaving room for their own ideas?
-
-## Featured projects
-
-| Project | What it does | Built with |
-| --- | --- | --- |
-| **ExecBrief AI** | Lets people ask questions about business data, explore the numbers in charts, and check the sources behind an answer. | Python, FastAPI, React, LangChain, pgvector |
-| **Shen** | Finds evidence across text, tables, and images so readers can trace an answer back to the document it came from. | FastAPI, PostgreSQL, pgvector, Next.js, Docker |
-| **Demand Forecasting** | Combines demand forecasts with vendor scores to support two purchasing decisions: how much to order and whom to order from. | Python, TensorFlow/Keras, Pandas, multivariate LSTM |
-| **UniSphere** | Gives students one place to find housing, join study groups, discover events, and reunite lost items with their owners. | React Native, Node.js, Express, MongoDB |
 
 ## Inside my toolbox
 
