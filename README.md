@@ -1,7 +1,12 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:171717,100:B91C1C&amp;height=105&amp;section=header&amp;animation=twinkling" />
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FECACA,100:B91C1C&amp;height=105&amp;section=header&amp;animation=twinkling" />
+</picture>
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2500&amp;pause=1100&amp;color=E05252&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=64&amp;separator=%7C&amp;lines=print%28%22Hello%2C+world%21%22%29++%23+Python%7Cconsole.log%28%22Hello%2C+world%21%22%29%3B++%2F%2F+JavaScript%7CSystem.out.println%28%22Hello%2C+world%21%22%29%3B++%2F%2F+Java%7Cprintf%28%22Hello%2C+world%21%5Cn%22%29%3B++%2F%2F+C"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2600&amp;pause=1100&amp;color=DC4545&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=60&amp;separator=%7C&amp;lines=print%28%22Hello%2C+world%21%22%29++%23+Python%7Cconsole.log%28%22Hello%2C+world%21%22%29%3B++%2F%2F+JavaScript%7CSystem.out.println%28%22Hello%2C+world%21%22%29%3B++%2F%2F+Java%7Cprintf%28%22Hello%2C+world%21%5Cn%22%29%3B++%2F%2F+C"
   alt="Hello, world! typed in Python, JavaScript, Java, and C"
 />
 
@@ -9,42 +14,41 @@
 
 *I teach machines to find patterns. Then I ask the awkward question: “Does this actually help anyone?”*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-181818?style=for-the-badge)](https://example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/YOUR_HANDLE/)
+[![D30 Photography](https://img.shields.io/badge/D30_Photography-B91C1C?style=for-the-badge)](https://www.facebook.com/YOUR_PAGE/)
+
 </div>
 
----
+## About me
 
-## A little about me
+I build tools for the moment someone has to make a decision. How much stock should we order? Which report backs up that number? At **Travler**, the question is a little more personal: how can AI help someone plan a day out while leaving room for their own ideas?
 
-I like building tools for the moment someone has to make a decision. How much stock should we order next month? Where did that number in the report come from? What would make a day out easier to plan?
+## Featured projects
 
-Those questions shape what I build, from demand forecasting models to AI assistants that show their sources. At **Travler**, I’m exploring how AI and human judgment can work together to make travel planning more personal.
-
-## What I’m building
-
-| Project | The question behind it | How I approached it |
+| Project | What it does | Built with |
 | --- | --- | --- |
-| **ExecBrief AI** | Can I ask a question about a business and check the answer myself? | Combined document retrieval with structured KPI data. A FastAPI backend streams explanations, charts, and source references to a React interface. |
-| **Shen** | What if the answer is in a table or an image? | Built a multimodal RAG platform that retrieves evidence from text, tables, and images and points readers back to the source. |
-| **Demand Forecasting** | How much should a business order, and which vendor should it choose? | Paired a multivariate LSTM demand forecast with vendor scoring to support purchasing decisions. |
-| **UniSphere** | Could finding a tutor, a room, or a lost item start in the same place? | Built a campus app with React Native, Node.js, and MongoDB so students can find and share what they need. |
+| **ExecBrief AI** | Lets people ask questions about business data, explore the numbers in charts, and check the sources behind an answer. | Python, FastAPI, React, LangChain, pgvector |
+| **Shen** | Finds evidence across text, tables, and images so readers can trace an answer back to the document it came from. | FastAPI, PostgreSQL, pgvector, Next.js, Docker |
+| **Demand Forecasting** | Combines demand forecasts with vendor scores to support two purchasing decisions: how much to order and whom to order from. | Python, TensorFlow/Keras, Pandas, multivariate LSTM |
+| **UniSphere** | Gives students one place to find housing, join study groups, discover events, and reunite lost items with their owners. | React Native, Node.js, Express, MongoDB |
 
 ## Inside my toolbox
 
-- **Understanding data** — Python, SQL, R, Pandas, Power BI
-- **Training models** — PyTorch, TensorFlow/Keras, scikit-learn
-- **Building AI assistants** — LangChain, PostgreSQL, pgvector, Hugging Face, Gemini
-- **Building web and mobile apps** — FastAPI, React, React Native, Node.js, Docker
+- **Data and analytics** — Python, SQL, R, Pandas, Power BI
+- **Machine learning** — PyTorch, TensorFlow/Keras, scikit-learn
+- **AI applications** — LangChain, Hugging Face, Gemini, PostgreSQL, pgvector
+- **Web and mobile** — FastAPI, React, React Native, Node.js, Docker
 
-## Beyond the notebook 📸
+## Behind the lens 📸
 
-I also run **D30 Photography**. Photography and data science keep teaching me the same lesson: what you leave outside the frame can change the whole story.
+Away from the keyboard, I run **D30 Photography**. Photography and data science keep teaching me the same lesson: what you leave outside the frame can change the whole story.
 
----
+## My contributions, one commit at a time 🐍
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+  <img width="100%" alt="An animated snake moves across my GitHub contribution calendar" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+</picture>
 
-<!-- Replace the three example URLs below with your own links. -->
-
-[Portfolio]([https://example.com](https://portfolio-julana.vercel.app)) · [LinkedIn](linkedin.com/in/julana-premasekara ) · [D30 Photography]([https://www.facebook.com/your-page-handle/](https://www.facebook.com/share/1E5ufQPggU/))
-
-</div>
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:B91C1C,100:171717&amp;height=85&amp;section=footer&amp;animation=twinkling" />
