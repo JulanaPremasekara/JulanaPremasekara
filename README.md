@@ -10,7 +10,7 @@
   alt="Hello, world! typed in Python, JavaScript, Java, and C"
 />
 
-**Data Science undergraduate in Sri Lanka · Co-founder & Head of AI at Travler**
+**Data Science undergraduate in Sri Lanka · I use AI to solve problems, then create three new ones while debugging**
 
 *I teach machines to find patterns. Then I ask the awkward question: “Does this actually help anyone?”*
 
